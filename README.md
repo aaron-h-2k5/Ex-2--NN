@@ -134,7 +134,7 @@ plt.show()
 
 # OUTPUT:
 <img width="360" alt="Screenshot 2025-04-25 at 7 43 14 PM" src="https://github.com/user-attachments/assets/f8630ffd-4a43-4957-aeba-faea745ed14a" />
-
+<br>
 <img width="418" alt="Screenshot 2025-04-25 at 7 43 27 PM" src="https://github.com/user-attachments/assets/6430a6a6-32de-4e11-a115-af0aa6881293" />
 
 <img width="627" alt="Screenshot 2025-04-25 at 7 43 39 PM" src="https://github.com/user-attachments/assets/3044ade2-1efa-4cd7-aac8-c3aabf40e25e" />
